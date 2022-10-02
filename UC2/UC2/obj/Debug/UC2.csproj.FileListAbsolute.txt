@@ -1,8 +1,0 @@
-C:\Users\Saurabh\OneDrive\Desktop\EMp wqage\UC2\UC2\bin\Debug\UC2.exe.config
-C:\Users\Saurabh\OneDrive\Desktop\EMp wqage\UC2\UC2\bin\Debug\UC2.exe
-C:\Users\Saurabh\OneDrive\Desktop\EMp wqage\UC2\UC2\bin\Debug\UC2.pdb
-C:\Users\Saurabh\OneDrive\Desktop\EMp wqage\UC2\UC2\obj\Debug\UC2.csproj.AssemblyReference.cache
-C:\Users\Saurabh\OneDrive\Desktop\EMp wqage\UC2\UC2\obj\Debug\UC2.csproj.SuggestedBindingRedirects.cache
-C:\Users\Saurabh\OneDrive\Desktop\EMp wqage\UC2\UC2\obj\Debug\UC2.csproj.CoreCompileInputs.cache
-C:\Users\Saurabh\OneDrive\Desktop\EMp wqage\UC2\UC2\obj\Debug\UC2.exe
-C:\Users\Saurabh\OneDrive\Desktop\EMp wqage\UC2\UC2\obj\Debug\UC2.pdb
