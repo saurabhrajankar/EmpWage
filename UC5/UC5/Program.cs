@@ -37,12 +37,13 @@ namespace UC5
                         Console.WriteLine("Employee Wage Absent");
                         empHrs = 0;
                         break;
-                }
-                empWage = EMP_RET_PER_HR * empHrs;
+                  }
+                 empWage = EMP_RET_PER_HR * empHrs;
                 totalEmpwage += empWage;
                 Console.WriteLine($"Employee Wage {empWage}");
-                Console.WriteLine($"Total emp wage : {totalEmpwage}");
-                Console.ReadLine();
-        }   }
+            }
+            Console.WriteLine($"Total emp wage : {totalEmpwage}");
+            Console.ReadLine();
+        }
     }
 }
